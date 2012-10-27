@@ -5,7 +5,7 @@ Simple Composer port of Jarrod Oberto's Image Resizing class.
 ### Installation
 ---
 ```
-composer require julien-c/SimpleResize
+composer require julien-c/simple-resize
 composer install
 ```
 
