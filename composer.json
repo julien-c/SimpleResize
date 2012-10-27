@@ -1,0 +1,13 @@
+{
+    "name": "julien-c/SimpleResize",
+    "description": "Simple Composer port of Jarrod Oberto's Image Resizing class",
+    "authors": [
+        {
+            "name": "Julien Chaumond",
+            "email": "chaumond@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
